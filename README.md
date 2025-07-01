@@ -74,6 +74,6 @@ python convert_to_txt.py input.docx output.txt
 ## 🔧 Технологический стек
 Python 3.9+
 
-- Библиотеки: matplotlib, evaluation, pandas, docx
+- Библиотеки: matplotlib, evaluation, pandas, pdfminer
 - NLP-метрики: rouge-score, bert-score
 - Инструменты:  VS Code
