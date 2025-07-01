@@ -1,0 +1,7 @@
+evaluate
+rouge-score
+bert-score
+pandas
+matplotlib
+docx2txt
+pdfminer.six
